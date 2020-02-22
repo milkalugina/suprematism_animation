@@ -1,0 +1,133 @@
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.first {
+  margin: auto;
+  position: absolute;
+  top: 194px;
+  left: 56px;
+  right: 768px;
+}
+
+.b {
+  position: absolute;
+  top: 223px;
+  left: 229px;
+  right: 665px;
+}
+
+.c {
+  position: absolute;
+  top: 249px;
+  left: 392px;
+  right: 650px;
+}
+
+.d {
+  position: absolute;
+  top: 265px;
+  left: 715px;
+  right: 454px;
+}
+
+.e {
+  position: absolute;
+  top: 309px;
+  left: 432px;
+  right: 141px;
+}
+
+.f {
+  position: absolute;
+  top: 455px;
+  left: 606px;
+}
+
+.g {
+  position: absolute;
+  top: 415px;
+  left: 817px;
+}
+
+.h {
+  position: absolute;
+  top: 654px;
+  left: 671px;
+}
+
+.i {
+  position: absolute;
+  top: 836px;
+  left: 430px;
+}
+
+.j {
+  position: absolute;
+  top: 773px;
+  left: 107px;
+}
+
+.k {
+  position: absolute;
+  top: 1216px;
+  left: 399px;
+}
+
+.l {
+  position: absolute;
+  top: 1352px;
+  left: 1002px;
+}
+
+.m {
+  position: absolute;
+  top: 1576px;
+  left: 730px;
+}
+
+.n {
+  position: absolute;
+  top: 1737px;
+  left: 361px;
+}
+
+.o {
+  position: absolute;
+  top: 2269px;
+  left: 497px;
+}
+
+.p {
+  position: absolute;
+  top: 2648px;
+  left: 289px;
+}
+
+.q {
+  position: absolute;
+  top: 2804px;
+  left: 654px;
+}
+
+.r {
+  position: absolute;
+  top: 2978px;
+  left: 155px;
+}
+
+.s {
+  position: absolute;
+  top: 3177px;
+  left: 754px;
+}
+
+.t {
+  position: absolute;
+  top: 3557px;
+  left: 234px;
+  margin-bottom: 91px;
+}
